@@ -2,7 +2,8 @@
 
 This repository contains the notebooks and datasets to run the code in ['Build your first ML Project'](https://www.youtube.com/watch?v=KSsjPbowHQ0&list=PLFAYD0dt5xCymcvacfR4CLB9Pk_9L50gz) series.
 
-Youtube Link: [Build your first ML project](https://www.youtube.com/watch?v=KSsjPbowHQ0&list=PLFAYD0dt5xCymcvacfR4CLB9Pk_9L50gz)
+Youtube Link: [Build your first ML project](https://www.youtube.com/watch?v=KSsjPbowHQ0&list=PLFAYD0dt5xCymcvacfR4CLB9Pk_9L50gz).
+
 The videos quality get better in later videos.
 
 Just download or clone the repo and run it. You might have to update the path to the dataset inside the notebooks. 
